@@ -8,4 +8,5 @@ Modelo de treino: campeonato brasileiro 2022.
 Depois, fazer a renda bruta: preço (preço do ingresso) x quantidade (publico pagante).
 Modelo de teste: um jogo com caracteristicas específicas, identificando a renda.
 
+Primeiro os dados das 38 rodadas foram copiados e colado
 
